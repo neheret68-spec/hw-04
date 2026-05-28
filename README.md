@@ -6,3 +6,5 @@
 
 Студент: Нещеретний
 Варіант: №5
+
+https://neheret68-spec.github.io/hw-04/
